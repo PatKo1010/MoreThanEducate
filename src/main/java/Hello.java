@@ -7,6 +7,7 @@ public class Hello {
 		System.out.println("³¯­³¹F");
 		System.out.println("Patrick");
 		System.out.println("Hoga");
+		System.out.println("Hello");
 	}
 
 }
